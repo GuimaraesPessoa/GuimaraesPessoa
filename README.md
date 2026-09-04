@@ -58,11 +58,11 @@
 
 <div align="center">
   <img 
-    height="180em"
+    height="150em"
     src="https://github-readme-stats-fast.vercel.app/api?username=GuimaraesPessoa&show_icons=true&theme=tokyonight"
   />
   <img 
-    height="180em"
+    height="150em"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuimaraesPessoa&theme=tokyonight&layout=compact&langs_count=10"
   />
 </div>
