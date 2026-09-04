@@ -10,16 +10,44 @@
 
 ---
 
-### Linguagens e Tecnologias
+### 🛠️ Linguagens/Tecnologias
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="35px"
-    style="padding-right: 15px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+<img 
+ align="left" 
+ alt="Java" 
+ title="Java"
+ width="40px" 
+ style="padding-right: 15px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="HTML" 
+ title="HTML"
+ width="40px" 
+ style="padding-right: 15px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="CSS" 
+ title="CSS"
+ width="40px" 
+ style="padding-right: 15px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="JavaScript" 
+ title="JavaScript"
+ width="40px" 
+ style="padding-right: 15px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
 <br/>
 <br/>
 <br/>
@@ -28,18 +56,13 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=GuimaraesPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=GuimaraesPessoa&show_icons=true&theme=tokyonight"
   />
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=GuimaraesPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuimaraesPessoa&theme=tokyonight&layout=compact&langs_count=10"
   />
-</p>
+</div>
